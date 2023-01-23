@@ -1,3 +1,8 @@
+/*
+Author      :  MAKHLOUF Ibrahim
+Date        :  30-11-2022
+Program     :  program that take n and check if n is strong number or not
+*/
 #include<stdlib.h>
 #include<stdbool.h>
 
